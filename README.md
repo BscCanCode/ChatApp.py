@@ -36,3 +36,6 @@ This Chat App allows users to send, delete, and view chat messages, serving as a
 
 ## NOTE
 - This README is created with help from an AI chatbot.
+
+## Fun_Fact
+- I know what .md means in Readme.md: It means MarkDown.
